@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-[Acesse o projeto finalizado](https://site-gamesshop-tau-six.vercel.app/)
+🚀 [Acesse o projeto finalizado](https://site-gamesshop-tau-six.vercel.app/)
 
 ## Autor
 
